@@ -24,7 +24,7 @@ Each service operates independently and communicates using Google Cloud Pub/Sub.
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/YOUR_GITHUB_USERNAME/Distributed-System-Example-with-Google-Pub-Sub.git
+   git clone https://github.com/fakhruladani/Distributed-System-Example-with-Google-Pub-Sub.git
    cd Distributed-System-Example-with-Google-Pub-Sub
    ```
 

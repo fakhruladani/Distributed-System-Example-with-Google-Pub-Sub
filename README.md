@@ -1,4 +1,4 @@
-# Distributed System Example with Google Pub/Sub
+# Distributed System Example with Google Pub/Sub for Online Shopping
 
 This project demonstrates the implementation of a distributed system using Google Cloud Pub/Sub to simulate an online shopping process. The system consists of multiple services that communicate asynchronously using Pub/Sub messaging.
 
